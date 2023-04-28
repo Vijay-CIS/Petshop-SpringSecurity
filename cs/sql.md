@@ -28,11 +28,10 @@ drop table ROLE;
   insert into ROLE values (2,'USER');
   
   select * from USER;
-  ```
 
 ```
 
-##### Pet Module
+#### Pet Module
 
 ```sql
 drop table pet;
