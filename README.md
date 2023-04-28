@@ -12,12 +12,13 @@
   ---
 
 ## Pages
- ### 1.Login
- ### 2.Logout
- ### 3.Add pet
- ### 4.My Pet
- ### 5.Buy Pet
- ### 6.User Profile
+ ### 1.Register
+ ### 2.Login
+ ### 3.Logout
+ ### 4.Add pet
+ ### 5.My Pet
+ ### 6.Buy Pet
+ ### 7.User Profile
 --- 
 ## Features 
   ### - User can register based on Roles
