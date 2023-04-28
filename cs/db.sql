@@ -1,3 +1,5 @@
+
+```sql
 use petshop_db;
 show tables;
 
@@ -39,4 +41,4 @@ PRIMARY KEY (PETID)
   insert into ROLE values (2,'USER');
   
   select * from USER;
-  
+  ```
